@@ -29,7 +29,7 @@ For engineering modifications during the 2018 OpenPlant Project 2018, see our <a
 
 See our <a href="Results.md"> Results Page</a>
 
-## Cost of parts bought on the grant
+# Cost of parts bought on the grant
 
 See our <a href="CostOfParts.md"> Cost of Parts Page</a>
 
