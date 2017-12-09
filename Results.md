@@ -25,5 +25,6 @@ I plan to edit video using Adobe Premiere Pro CS3, which I already have, and hav
 5.	the automation part with the arduino.<br>
 6.	A page about lighting. <br>
 
+These will be made on Microsoft Word 2003 and converted to pdf using Adobe Acrobat Professional CS3, which I already have. 
 
 ## Images
