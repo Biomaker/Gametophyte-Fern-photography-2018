@@ -1,6 +1,10 @@
 
 <img src="images/banner.jpg" alt="image"/>
 
+# Team
+
+See our <a href="Team.md"> Team Page</a>
+
 
 
 # Summary
@@ -12,9 +16,13 @@ Within and beyond the period of the grant, our aim is to use the system to take 
 
 We hope that making these images available will start a trend for sharing of microscopic deep focus plant science images, and provide tools for school and University teaching staff to ignite enthusiasm for these tiny plant specimens. 
 
+# Results
 
+See our <a href="Results.md"> Results Page</a>
 
 ## Cost of parts bought on the grant
+
+See our <a href="CostOfParts.md"> Cost of Parts Page</a>
 
 
 
