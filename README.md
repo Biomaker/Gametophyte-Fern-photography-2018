@@ -19,6 +19,12 @@ Within and beyond the period of the grant, our aim is to use the system to take 
 
 We hope that making these images available will start a trend for sharing of microscopic deep focus plant science images, and provide tools for school and University teaching staff to ignite enthusiasm for these tiny plant specimens. 
 
+# Changes made to the system since the 2017 Biomaker Challenge
+
+The 2017 Biomaker system is fully described on the <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/README.md">2017 Biomaker Focus stacking project write-up</a>.<br><br>
+
+For engineering modifications during the 2018 OpenPlant Project 2018, see our <a href="Engineering.md"> Engineering Page</a>
+
 # Results
 
 See our <a href="Results.md"> Results Page</a>
