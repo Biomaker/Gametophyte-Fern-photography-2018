@@ -12,8 +12,7 @@ Plan for videos:<br><br>
 4.	the automation part with the arduino<br>
 5.	perhaps a video of a microscope with a camera mounted on top doing the same. <br>
 
-
-
+I plan to edit video using Adobe Premiere Pro CS3, which I already have, and have bought a book to learn how to do it. 
 
 
 ## printable pdf tutorials 
