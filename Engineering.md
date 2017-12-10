@@ -7,8 +7,8 @@ The main gain from this conversion is that we will then be able to use mirror lo
 
 Here are the parts that we will use to build the new system:
 
-<img src="images/2.5mmTo3.5mmAdapter.jpg" height="42" alt="image"/>
+<img src="images/2.5mmTo3.5mmAdapter.jpg" height="400" alt="image"/>
 
-<img src="images/3.5mmToArduinoAdapter.jpg" alt="image"/>
+<img src="images/3.5mmToArduinoAdapter.jpg"  height="400"  alt="image"/>
 
-<img src="images/AndoerYouProShutterRelease.jpg" alt="image"/>
+<img src="images/AndoerYouProShutterRelease.jpg"  height="400" alt="image"/>
