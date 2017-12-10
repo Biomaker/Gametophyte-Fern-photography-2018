@@ -8,7 +8,7 @@
 4) Show the slices being combined in Helicon Focus. This is a slow section so use an example with only four or five slices. 
 
 5) Talk about the applications of focus stacking - Regular photography, confocal work, and then macrophotography. <br>
-Would Jim Haseloff perhaps give me some confocal slices and a composite image if credited? 
+Could I find some confocal slices and a composite image perhaps? 
 
 6) Say that this series of videos is about how to set up a cheap DIY focus stacking setup, to teach the principles of focus stacking, and also to show the conversion to a professional setup for macrophotography. 
 
