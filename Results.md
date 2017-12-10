@@ -14,6 +14,13 @@ Plan for videos:<br><br>
 
 I plan to edit video using Adobe Premiere Pro CS3, which I already have, and have bought a book to learn how to do it. 
 
+Notes:
+
+Chris Slaybaugh's surname is pronounced as in "saw" and "claw".<br>
+The powershot SX210 IS does 1080p HD video and so does the Ixus 230 HS. <br>
+The DSLR is probably not so good as it might overheat the sensor. <br>
+I think 1080p is probably enough. <br>
+
 
 ## printable pdf tutorials 
 
