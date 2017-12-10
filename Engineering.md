@@ -5,6 +5,8 @@ In out previous work we triggered the camera using an infra red remote control. 
 
 The main gain from this conversion is that we will then be able to use mirror lock-up to reduce vibration. This is not possible using the infra red remote control. 
 
+## Hardware
+
 Here are the parts that we will use to build the new system:
 
 1) We are using the cable from this electronic camera shutter release. The set is called a "Andoer 2.4G Wireless Remote Control LCD Timer Shutter Release 32 Channels for Canon 7D"
@@ -21,3 +23,6 @@ This is a Gold Plated 2.5mm Female to 3.5mm Male Stereo Audio Headphone Adapter 
 
 <img src="images/3.5mmToArduinoAdapter.jpg"  height="200"  alt="image"/>
 
+## Wiring
+
+The instructions we are following for dealing with the electronics of the shutter release cable are at <a href="http://www.doc-diy.net/photo/eos_wired_remote/">http://www.doc-diy.net/</a>.
