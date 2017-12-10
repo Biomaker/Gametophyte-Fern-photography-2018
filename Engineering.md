@@ -11,4 +11,4 @@ Here are the parts that we will use to build the new system:
 
 <img src="images/3.5mmToArduinoAdapter.jpg" alt="image"/>
 
-<img src="imagesAndoerYouProShutterRelease.jpg" alt="image"/>
+<img src="images/AndoerYouProShutterRelease.jpg" alt="image"/>
