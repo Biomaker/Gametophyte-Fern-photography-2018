@@ -6,11 +6,11 @@
 
 Plan for videos:<br><br>
 
-1.	Principles of focus stacking. Alternating movement and photos, and stacking process. <br>
-2.	The mechanical part of my setup with an ixus camera on top.<br>
-3.	The DSLR + objective version of my setup<br>
-4.	the automation part with the arduino<br>
-5.	perhaps a video of a microscope with a camera mounted on top doing the same. <br>
+1.	Principles of focus stacking. Alternating movement and photos, and stacking process. <a href="FocusStacking.md">Plan</a><br>
+2.	The mechanical part of my setup with an ixus camera on top. <a href="Mechanics.md">Plan</a><br>
+3.	The DSLR + objective version of my setup. <a href="DSLRAndObjective.md">Plan</a><br>
+4.	the automation part with the arduino. <a href="Automation.md">Plan</a><br>
+5.	perhaps a video of a microscope with a camera mounted on top doing the same. <a href="MicroscopeMountedCamera.md">Plan</a> <br>
 
 I plan to edit video using Adobe Premiere Pro CS3, which I already have, and have bought a book to learn how to do it. 
 
