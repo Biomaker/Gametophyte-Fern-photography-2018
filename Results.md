@@ -23,6 +23,7 @@ I think 1080p is probably enough. <br>
 Most technical videos that I have the patience to watch are under 5 minutes long, and if they don't get my attention in under 16 seconds, I turn them off and try a different one. <br>
 http://tv.adobe.com has tutorials on how to use premiere pro. <br>
 VLC media player can be used to record what's happening on the computer screen, e.g. Helicon Focus processing. <br>
+The instructions are here: https://www.vlchelp.com/how-to-record-desktop/
 
 
 ## printable pdf tutorials 
