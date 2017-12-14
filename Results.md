@@ -41,6 +41,8 @@ SAPS ask specifically for Word docs so teachers can adapt them.
 
 Both school and undergraduate teachers have suggested that the cut up microscope may be too much work for them as they either have no spare microscopes, or need to cater for 100s of students, and don't have 100s of microscopes. I'm wondering if it would be better to make the teaching setup much simpler and have the rail made of lego, with an ixus or smartphone on top. 
 
+I'm also wondering whether it might be good to cover photostacking from a cheap-as-chips teaching microscope with a USB camera on top as some schools may have access to things like that. 
+
 
 
 ## Images
