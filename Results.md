@@ -26,7 +26,7 @@ VLC media player can be used to record what's happening on the computer screen, 
 The instructions are here: https://www.vlchelp.com/how-to-record-desktop/
 
 
-## printable pdf tutorials 
+## printable pdf and word tutorials 
 
 
 1.	Principles of focus stacking. Movement and photos, and stacking process. <br>
@@ -37,5 +37,10 @@ The instructions are here: https://www.vlchelp.com/how-to-record-desktop/
 6.	A page about lighting. <br>
 
 These will be made on Microsoft Word 2003 and converted to pdf using Adobe Acrobat Professional CS3, which I already have. 
+SAPS ask specifically for Word docs so teachers can adapt them. 
+
+Both school and undergraduate teachers have suggested that the cut up microscope may be too much work for them as they either have no spare microscopes, or need to cater for 100s of students, and don't have 100s of microscopes. I'm wondering if it would be better to make the teaching setup much simpler and have the rail made of lego, with an ixus or smartphone on top. 
+
+
 
 ## Images
