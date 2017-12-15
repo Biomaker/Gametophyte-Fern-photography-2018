@@ -51,6 +51,10 @@ Everyone is very clear that it has to be curriculum linked and easy for the teac
 
 I have written to the private secondaries to see if they have different priorities. 
 
+I have written to Helicon Focus to ask if they are happy to feature in the videos and to have the students download their demo version. 
+
+Thinking more about the lego plan, I'm wondering if it would be better to use something less copyright so I don't need to ask the permission of the lego corporation as well. It could just be two block wedged between two hard back books with a smart phone wedged in between.
+
 
 
 ## Images
