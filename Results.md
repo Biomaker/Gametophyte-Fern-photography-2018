@@ -7,10 +7,11 @@
 Plan for videos:<br><br>
 
 1.	Principles of focus stacking. Alternating movement and photos, and stacking process. <a href="FocusStacking.md">Plan</a><br>
-2.	The mechanical part of my setup with an ixus camera on top. <a href="Mechanics.md">Plan</a><br>
-3.	The DSLR + objective version of my setup. <a href="DSLRAndObjective.md">Plan</a><br>
-4.	the automation part with the arduino. <a href="Automation.md">Plan</a><br>
-5.	perhaps a video of a microscope with a camera mounted on top doing the same. <a href="MicroscopeMountedCamera.md">Plan</a> <br>
+2.  The £0 version for schools and first year undergrad. A lego car with a smartphone on top. 
+3.	The mechanical part of my setup with an ixus camera on top. <a href="Mechanics.md">Plan</a><br>
+4.	The DSLR + objective version of my setup. <a href="DSLRAndObjective.md">Plan</a><br>
+5.	the automation part with the arduino. <a href="Automation.md">Plan</a><br>
+6.	perhaps a video of a microscope with a camera mounted on top doing the same. <a href="MicroscopeMountedCamera.md">Plan</a> <br>
 
 I plan to edit video using Adobe Premiere Pro CS3, which I already have, and have bought a book to learn how to do it. 
 
@@ -31,10 +32,11 @@ The instructions are here: https://www.vlchelp.com/how-to-record-desktop/
 
 1.	Principles of focus stacking. Movement and photos, and stacking process. <br>
 2.	Sheet about a microscope with a camera mounted on top doing the same. <br>
-3.	the mechanical part of my setup with details of how to build it and an ixus on top, and hand held remote. <br>
-4.	Adaptation to the DSLR still manual but now with microscope objectives.<br> 
-5.	the automation part with the arduino.<br>
-6.	A page about lighting. <br>
+3.  The £0 version for schools and first year undergrad. A lego car with a smartphone on top. 
+4.	the mechanical part of my setup with details of how to build it and an ixus on top, and hand held remote. <br>
+5.	Adaptation to the DSLR still manual but now with microscope objectives.<br> 
+6.	the automation part with the arduino.<br>
+7.	A page about lighting. <br>
 
 These will be made on Microsoft Word 2003 and converted to pdf using Adobe Acrobat Professional CS3, which I already have. 
 SAPS ask specifically for Word docs so teachers can adapt them. 
