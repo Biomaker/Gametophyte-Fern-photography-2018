@@ -47,6 +47,10 @@ Ben Dobson says yes to my idea to make the teaching setup much simpler and have 
 
 I'm also wondering whether it might be good to cover photostacking from a cheap-as-chips teaching microscope with a USB camera on top as some schools may have access to things like that. Ben says that's not much of a runner as they would only have one, and need to have enough for every student. 
 
+Everyone is very clear that it has to be curriculum linked and easy for the teachers to find as a curriculum tool, cheap or free, and obviously relevant to their course. 
+
+I have written to the private secondaries to see if they have different priorities. 
+
 
 
 ## Images
