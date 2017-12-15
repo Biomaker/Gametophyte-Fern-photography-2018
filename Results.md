@@ -55,6 +55,8 @@ I have written to Helicon Focus to ask if they are happy to feature in the video
 
 Thinking more about the lego plan, I'm wondering if it would be better to use something less copyright so I don't need to ask the permission of the lego corporation as well. It could just be two block wedged between two hard back books with a smart phone wedged in between.
 
+Wrote to Jim Haseloff to ask if he would contribute confocal slices and a 3D to show that focus stacking is used in confocal. 
+
 
 
 ## Images
