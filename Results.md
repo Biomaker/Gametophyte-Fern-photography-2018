@@ -26,6 +26,7 @@ http://tv.adobe.com has tutorials on how to use premiere pro. <br>
 VLC media player can be used to record what's happening on the computer screen, e.g. Helicon Focus processing. <br>
 The instructions are here: https://www.vlchelp.com/how-to-record-desktop/
 
+It turns out that the Ixus is no good for video but the Canon 5d MkII will take video that can be loaded into Premiere Pro CS3, if the file format is first converted in Windows movie maker to WMV file. This means I need to buy a broken decoy DSLR from ebay to stand-in when I video or photograph the setup. 
 
 ## printable pdf and word tutorials 
 
