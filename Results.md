@@ -11,7 +11,8 @@ Plan for videos:<br><br>
 3.	The mechanical part of my setup with an ixus camera on top. <a href="Mechanics.md">Plan</a><br>
 4.	The DSLR + objective version of my setup. <a href="DSLRAndObjective.md">Plan</a><br>
 5.	the automation part with the arduino. <a href="Automation.md">Plan</a><br>
-6.	perhaps a video of a microscope with a camera mounted on top doing the same. <a href="MicroscopeMountedCamera.md">Plan</a> <br>
+6. The whole setup working together. 
+7.	perhaps a video of a microscope with a camera mounted on top doing the same. <a href="MicroscopeMountedCamera.md">Plan</a> <br>
 
 I plan to edit video using Adobe Premiere Pro CS3, which I already have, and have bought a book to learn how to do it. 
 
@@ -40,6 +41,7 @@ For shots that include the DSLR camera body I will use my old Canon film SLR cam
 5.	Adaptation to the DSLR still manual but now with microscope objectives.<br> 
 6.	the automation part with the arduino.<br>
 7.	A page about lighting. <br>
+8. The whole setup working together. 
 
 These will be made on Microsoft Word 2003 and converted to pdf using Adobe Acrobat Professional CS3, which I already have. 
 SAPS ask specifically for Word docs so teachers can adapt them. 
