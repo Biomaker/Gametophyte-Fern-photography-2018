@@ -62,6 +62,6 @@ Thinking more about the lego plan, I'm wondering if it would be better to use so
 
 Wrote to Jim Haseloff to ask if he would contribute confocal slices and a 3D to show that focus stacking is used in confocal. 
 
-
+I phoned Mackays in Cambridge to ask how to cut up a microscope. They said that they would use a bandsaw to cut the microscope. They said that to make threaded holes, then would first drill the hole, and then use a "tap and die" to make the threading in the hole so that it can accommodate a screw in the hole. They said that they can do this work at Mackays, and for people further afield they need to look for a metalwork shop.
 
 ## Images
