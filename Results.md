@@ -16,6 +16,21 @@ Plan for videos:<br><br>
 
 I plan to edit video using Adobe Premiere Pro CS3, which I already have, and have bought a book to learn how to do it. 
 
+
+
+## printable pdf and word tutorials 
+
+
+1.	Principles of focus stacking. Movement and photos, and stacking process. <br>
+2.	Sheet about a microscope with a camera mounted on top doing the same. <br>
+3.  The £0 version for schools and first year undergrad. A lego car with a smartphone on top. 
+4.	the mechanical part of my setup with details of how to build it and an ixus on top, and hand held remote. <br>
+5.	Adaptation to the DSLR still manual but now with microscope objectives.<br> 
+6.	the automation part with the arduino.<br>
+7.	A page about lighting. <br>
+8. The whole setup working together. 
+
+
 Notes:
 
 Chris Slaybaugh's surname is pronounced as in "saw" and "claw".<br>
@@ -30,18 +45,6 @@ The instructions are here: https://www.vlchelp.com/how-to-record-desktop/
 It turns out that the Ixus is no good for video but the Canon 5d MkII will take video that can be loaded into Premiere Pro CS3, if the file format is first converted in Windows movie maker to WMV file. 
 
 For shots that include the DSLR camera body I will use my old Canon film SLR camera as a stand-in. It is almost indistinguishable from the modern Canon DSLR. For moving shots of the camera I will record the sound of the DSLR shutter and add them over the footage of the film camera moving on the focus rail. 
-
-## printable pdf and word tutorials 
-
-
-1.	Principles of focus stacking. Movement and photos, and stacking process. <br>
-2.	Sheet about a microscope with a camera mounted on top doing the same. <br>
-3.  The £0 version for schools and first year undergrad. A lego car with a smartphone on top. 
-4.	the mechanical part of my setup with details of how to build it and an ixus on top, and hand held remote. <br>
-5.	Adaptation to the DSLR still manual but now with microscope objectives.<br> 
-6.	the automation part with the arduino.<br>
-7.	A page about lighting. <br>
-8. The whole setup working together. 
 
 These will be made on Microsoft Word 2003 and converted to pdf using Adobe Acrobat Professional CS3, which I already have. 
 SAPS ask specifically for Word docs so teachers can adapt them. 
@@ -63,5 +66,15 @@ Thinking more about the lego plan, I'm wondering if it would be better to use so
 Wrote to Jim Haseloff to ask if he would contribute confocal slices and a 3D to show that focus stacking is used in confocal. 
 
 I phoned Mackays in Cambridge to ask how to cut up a microscope. They said that they would use a bandsaw to cut the microscope. They said that to make threaded holes, then would first drill the hole, and then use a "tap and die" to make the threading in the hole so that it can accommodate a screw in the hole. They said that they can do this work at Mackays, and for people further afield they need to look for a metalwork shop.
+
+## Update - 21/12/2017
+
+I have been fighting with Adobe software and it is causing a lot of problems. My CS3 version has been discontinued so I cannot install it, as the serial number is no longer accepted. I can't upgrade my computer to accept the new version because my eyes do not get onw with modern screens. I did try the new version, and it displays all my images in neon green, which does not seem good either. 
+
+Instead of using Photoshop and Premiere Pro, I'm experimenting with using the Gimp and powerpoint 2003. They seem simple and do the job, hopefully. Without all the faffing over high tech software I hope I can then get on and start making the teaching materials. 
+
+
+
+
 
 ## Images
