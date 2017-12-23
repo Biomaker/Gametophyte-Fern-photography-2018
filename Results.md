@@ -14,7 +14,6 @@ Plan for videos:<br><br>
 6. The whole setup working together. 
 7.	perhaps a video of a microscope with a camera mounted on top doing the same. <a href="MicroscopeMountedCamera.md">Plan</a> <br>
 
-I plan to edit video using Adobe Premiere Pro CS3, which I already have, and have bought a book to learn how to do it. 
 
 
 
@@ -34,26 +33,13 @@ I plan to edit video using Adobe Premiere Pro CS3, which I already have, and hav
 Notes:
 
 Chris Slaybaugh's surname is pronounced as in "saw" and "claw".<br>
-The powershot SX210 IS does 1080p HD video and so does the Ixus 230 HS. <br>
-The DSLR is probably not so good as it might overheat the sensor. <br>
-I think 1080p is probably enough. <br>
-Most technical videos that I have the patience to watch are under 5 minutes long, and if they don't get my attention in under 16 seconds, I turn them off and try a different one. <br>
-http://tv.adobe.com has tutorials on how to use premiere pro. <br>
-VLC media player can be used to record what's happening on the computer screen, e.g. Helicon Focus processing. <br>
-The instructions are here: https://www.vlchelp.com/how-to-record-desktop/
 
-It turns out that the Ixus is no good for video but the Canon 5d MkII will take video that can be loaded into Premiere Pro CS3, if the file format is first converted in Windows movie maker to WMV file. 
-
-For shots that include the DSLR camera body I will use my old Canon film SLR camera as a stand-in. It is almost indistinguishable from the modern Canon DSLR. For moving shots of the camera I will record the sound of the DSLR shutter and add them over the footage of the film camera moving on the focus rail. 
-
-These will be made on Microsoft Word 2003 and converted to pdf using Adobe Acrobat Professional CS3, which I already have. 
+These will be made on Microsoft Word 2003 and converted to pdf. 
 SAPS ask specifically for Word docs so teachers can adapt them. 
 
 Both school and undergraduate teachers have suggested that the cut up microscope may be too much work for them as they either have no spare microscopes, or need to cater for 100s of students, and don't have 100s of microscopes. 
 
-Ben Dobson says yes to my idea to make the teaching setup much simpler and have the rail made of lego, with an ixus or smartphone on top. 
-
-I'm also wondering whether it might be good to cover photostacking from a cheap-as-chips teaching microscope with a USB camera on top as some schools may have access to things like that. Ben says that's not much of a runner as they would only have one, and need to have enough for every student. 
+Ben Dobson says yes to my idea to make the teaching setup much simpler and have the rail made of lego or books, with an ixus or smartphone on top. 
 
 Everyone is very clear that it has to be curriculum linked and easy for the teachers to find as a curriculum tool, cheap or free, and obviously relevant to their course. 
 
@@ -61,7 +47,7 @@ I have written to the private secondaries to see if they have different prioriti
 
 I have written to Helicon Focus to ask if they are happy to feature in the videos and to have the students download their demo version. 
 
-Thinking more about the lego plan, I'm wondering if it would be better to use something less copyright so I don't need to ask the permission of the lego corporation as well. It could just be two block wedged between two hard back books with a smart phone wedged in between. - Lego wrote back and said it's find to use lego bricks as long as I am not trying to make money from the work. 
+Lego wrote back and said it's fine to use lego bricks as long as I am not trying to make money from the work. 
 
 Wrote to Jim Haseloff to ask if he would contribute confocal slices and a 3D to show that focus stacking is used in confocal. 
 
@@ -69,10 +55,9 @@ I phoned Mackays in Cambridge to ask how to cut up a microscope. They said that 
 
 ## Update - 21/12/2017
 
-I have been fighting with Adobe software and it is causing a lot of problems. My CS3 version has been discontinued so I cannot install it, as the serial number is no longer accepted. I can't upgrade my computer to accept the new version because my eyes do not get onw with modern screens. I did try the new version, and it displays all my images in neon green, which does not seem good either. 
+I have been fighting with Adobe software and it is causing a lot of problems. My CS3 version has been discontinued so I cannot install it, as the serial number is no longer accepted. I can't upgrade my computer to accept the new version because my eyes do not get onw with modern screens. 
 
-Instead of using Photoshop and Premiere Pro, I'm experimenting with using the Gimp and powerpoint 2003. They seem simple and do the job, hopefully. Without all the faffing over high tech software I hope I can then get on and start making the teaching materials. 
-
+I've decided to use the Gimp and Windows Movie Maker, saving in WMV format. I'm now going to start filming. I'll be using the Canon 5d MKII with the Olympus f/1.8 lens to film. For scenes in which the DSLR body is to appear, I will substitute my Canon film SLR in the scene. 
 
 
 
