@@ -55,9 +55,7 @@ I phoned Mackays in Cambridge to ask how to cut up a microscope. They said that 
 
 ## Update - 21/12/2017
 
-I have been fighting with Adobe software and it is causing a lot of problems. My CS3 version has been discontinued so I cannot install it, as the serial number is no longer accepted. I can't upgrade my computer to accept the new version because my eyes do not get onw with modern screens. 
-
-I've decided to use the Gimp and Windows Movie Maker, saving in WMV format. I'm now going to start filming. I'll be using the Canon 5d MKII with the Olympus f/1.8 lens to film. For scenes in which the DSLR body is to appear, I will substitute my Canon film SLR in the scene. 
+I'm editing video using Windows Movie Maker and Adobe Premiere Pro CS3. Photos will be edited with Photoshop CS3. I'm now going to start filming. I'll be using the Canon 5d MKII with the Olympus f/1.8 lens to film. For scenes in which the DSLR body is to appear, I will substitute my Canon film SLR in the scene. 
 
 
 
