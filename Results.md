@@ -57,6 +57,12 @@ I phoned Mackays in Cambridge to ask how to cut up a microscope. They said that 
 
 I'm editing video using Windows Movie Maker and Adobe Premiere Pro CS3. Photos will be edited with Photoshop CS3. I'm now going to start filming. I'll be using the Canon 5d MKII with the Olympus f/1.8 lens to film. For scenes in which the DSLR body is to appear, I will substitute my Canon film SLR in the scene. 
 
+Batch file format conversions are being done by VLC using the Windows 7 SendTo script on this page:
+
+https://wiki.videolan.org/VLC_HowTo/Transcode_multiple_videos/
+
+To find the Send To folder, go to the explorer window and type "SHELL:sendto into the URL bar at the top. Then put this script in a Notepad++ file called MOV_to_MPG_Converter.bat and save as a .bat file. Then the command appears in the Sent To menu item. 
+
 
 
 
