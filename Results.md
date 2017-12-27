@@ -43,6 +43,9 @@ Ben Dobson says yes to my idea to make the teaching setup much simpler and have 
 
 Everyone is very clear that it has to be curriculum linked and easy for the teachers to find as a curriculum tool, cheap or free, and obviously relevant to their course. 
 
+I have figured out how to post on CAS, and am writing to SAPS and looking into TES (https://www.tes.com/resources/).
+
+
 I have written to the private secondaries to see if they have different priorities. 
 
 I have written to Helicon Focus to ask if they are happy to feature in the videos and to have the students download their demo version. 
@@ -52,6 +55,8 @@ Lego wrote back and said it's fine to use lego bricks as long as I am not trying
 Wrote to Jim Haseloff to ask if he would contribute confocal slices and a 3D to show that focus stacking is used in confocal. 
 
 I phoned Mackays in Cambridge to ask how to cut up a microscope. They said that they would use a bandsaw to cut the microscope. They said that to make threaded holes, then would first drill the hole, and then use a "tap and die" to make the threading in the hole so that it can accommodate a screw in the hole. They said that they can do this work at Mackays, and for people further afield they need to look for a metalwork shop.
+
+
 
 ## Update - 21/12/2017
 
