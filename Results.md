@@ -45,7 +45,10 @@ Ben Dobson says yes to my idea to make the teaching setup much simpler and have 
 
 Everyone is very clear that it has to be curriculum linked and easy for the teachers to find as a curriculum tool, cheap or free, and obviously relevant to their course. 
 
-I have figured out how to post on CAS, and am writing to SAPS and looking into TES (https://www.tes.com/resources/).
+I have figured out how to post on CAS (which they said I can just go ahead and do), and am writing to SAPS and TES (https://www.tes.com/resources/).
+
+The TES upload page is here: https://www.tes.com/teaching-resources/dashboard/overview
+They said I can go ahead and upload as long as my site has no adverts and people don't have to give personal information in order to download. I should probably upload in the GCSE photography section but will look into whether it would also fit in biology.  
 
 
 I have written to the private secondaries to see if they have different priorities. 
