@@ -4,6 +4,8 @@
 
 ## Videos
 
+I have started a <a href="https://www.youtube.com/channel/UC3X3V0cyiyJImTYC1UORjWQ?view_as=subscriber">YouTube Channel>/a> and I am uploading my videos there as I develop them. 
+
 Plan for videos:<br><br>
 
 1.	Principles of focus stacking. Alternating movement and photos, and stacking process. <a href="FocusStacking.md">Plan</a><br>
