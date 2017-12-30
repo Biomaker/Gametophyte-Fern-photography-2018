@@ -13,3 +13,7 @@ Could I find some confocal slices and a composite image perhaps?
 6) Say that this series of videos is about how to set up a cheap DIY focus stacking setup, to teach the principles of focus stacking, and also to show the conversion to a professional setup for macrophotography. 
 
 The End. 
+
+
+
+187 - 210
