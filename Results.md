@@ -12,7 +12,7 @@ Plan for videos:<br><br>
 2.  The £0 version for schools and first year undergrad. A lego car with a smartphone on top. 
 3.	The mechanical part of my setup with an ixus camera on top. <a href="Mechanics.md">Plan</a><br>
 4.	The DSLR + objective version of my setup. <a href="DSLRAndObjective.md">Plan</a><br>
-5.	the automation part with the arduino. <a href="Automation.md">Plan</a><br>
+5.	the automation part with the arduino. <a href="Automation.md">Plan</a> DONE<br>
 6. The whole setup working together. 
 7.	perhaps a video of a microscope with a camera mounted on top doing the same. <a href="MicroscopeMountedCamera.md">Plan</a> <br>
 
