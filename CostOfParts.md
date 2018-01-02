@@ -12,3 +12,5 @@ I am planning to use the grant money to buy:<br>
 50x M Plan Apo £1933 <br>
 <br><br>
 Total: £4009<br>
+
+I have checked and these will be covered on our house insurance as I am still classed as a hobbyist, in the absence of any salaried work. 
