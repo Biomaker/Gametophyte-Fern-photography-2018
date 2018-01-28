@@ -2,7 +2,7 @@
 This is the transcript:
 
 This is a focus stacking setup based on the Bratcam, built by 
-Chris Slaybaw.
+Chris Slaybaugh.
 
 Our setup is intended to be a very low-cost system. Apart from 
 the optics and the electronics for automation, all of the 
