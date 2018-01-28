@@ -6,6 +6,8 @@
 
 I have started a <a href="https://www.youtube.com/channel/UC3X3V0cyiyJImTYC1UORjWQ?view_as=subscriber">YouTube Channel</a> and I am uploading my videos there as I develop them. 
 
+I am adding custom subtitle files so that the videos work for the deaf community and for whose first language is not English. 
+
 At the end of each video, viewers are referred to a website for further information. The site is Chlorophyllosophy.uk, which I have registered and it redirects to a page of my image library that is just a place to gather all of the many write-ups that I have done on this subject. The system is all up and running now. 
 
 Plan for videos:<br><br>
