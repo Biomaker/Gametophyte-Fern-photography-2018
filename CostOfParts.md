@@ -2,15 +2,13 @@
 
 ## Cost of parts to be bought on the grant
 
+I figured out that I could use my Canon-MP-E lens for x1 to x3 magnifications, which freed up some budget to buy a 50x objective instead of a 2x. 
 
-I looked into the cost of upgrading software and my computer, but this would have been more than £1300, so I am going to use Microsoft Office 2003 and Adobe Creative Suite CS3, which I already have. <br>
+I also figured out that I could set up video editing equipment using my own 10 year old laptop and my old copy of Adobe Premiere Pro CS3. It is not fast, but it does the job.
 
-I am planning to use the grant money to buy:<br>
+This left funds for the following, which have been purchased:
 
-5X M Plan Apo Objective £632 <br>
-20X M Plan Apo  £1444 <br>
-50x M Plan Apo £1933 <br>
-<br><br>
-Total: £4009<br>
+<img src="images/quote.png" alt="image"/>
 
-I have checked and these will be covered on our house insurance as I am still classed as a hobbyist, in the absence of any salaried work. 
+Total cost incl VAT:
+£3891.3
