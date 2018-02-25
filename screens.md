@@ -13,14 +13,12 @@ So far:
 - Yellow gunnar glasses do not help. 
 - Polaroid sunglasses do not help. 
 
+## Here are the different avenues I am investigating
 
-Being keen on light though, this has all got me thinking a bit. 
-
-I'm wondering why I can't just use a spyder3pro screen colour calibrator to adjust the spectrum of light coming from the computer screen, so that I don't need to wear the glasses in the first place. I have written to ask them. 
-
-I'm also interested to know if I can use my DSLR camera to measure the spectrum of light coming from the screens that I use, particularly so that I could find out what is so much better about my Toshiba screen than all the others. 
-
-
+- <a href="Wilkins.md"> coloured lenses</a>
+- <a href="DIYScreen.md> DIY screen building</a>
+- Measuring the spectral output of screens with DSLR or Spyder hardware
+- Altering the spectal output of a screen with a spyder3pro
 
 
 
