@@ -27,9 +27,9 @@ The 2017 Biomaker system is fully described on the <a href="https://github.com/B
 
 We have a couple of technical problems that we are working on:
 
-Replacing the infrared shutter release with a <a href="Engineering.md"> cabled shutter release</a> to avoid having missed shots.
+- Replacing the infrared shutter release with a <a href="Engineering.md"> cabled shutter release</a> to avoid having missed shots.
 
-We are trying to set up faster computer equipment for video editing, but this is hampered by Jen having trouble using modern screens, due to eyestrain from blue light. The <a href="screens.md">technical issues of modern screens</a> are quite interesting, and this is turning into a bio-electronics project in its own right, so I will document it too. 
+- We are trying to set up faster computer equipment for video editing, but this is hampered by Jen having trouble using modern screens, due to eyestrain from blue light. The <a href="screens.md">technical issues of modern screens</a> are quite interesting, and this is turning into a bio-electronics project in its own right, so I will document it too. 
 
 # Results
 
