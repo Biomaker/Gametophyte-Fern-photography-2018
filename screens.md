@@ -22,5 +22,5 @@ He tested me and found that I experienced eye pain immediately on seeing the par
 Conversely, Professor Wilkins found that my eyes were very comfortable looking at the page when it was lit with apricot coloured light. I found this very amusing because my whole house is painted this colour, and I have always been very comfortable reading the Financial Times which is printed on exactly that shade of newspaper. He very kindly sent me a pair of lenses in exactly this shade, and I just now very tentatively testing them on a new (old) CCFL apple cinema screen that I have bought from ebay. Here are the lenses:
 
 
-<img src="images/lenses.JPG" width="1000" alt="image"/>
+<img src="images/lenses.JPG" width="400" alt="image"/>
 
