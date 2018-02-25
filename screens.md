@@ -21,6 +21,7 @@ So far:
 - <a href="DIYScreen.md"> DIY screen building</a>
 - Measuring the spectral output of screens with DSLR or Spyder hardware
 - Altering the spectal output of a screen with a spyder3pro
+- <a href="https://www.indiegogo.com/projects/e-ink-monitor-with-hdmi-paperlike-pro#/">Paperlike Pro</a> is a destop screen with e-ink, that looks very interesting, but I can't find one to see in person, to see if it would do the job.
 
 
 
