@@ -1,5 +1,5 @@
 
-I recently visited Emeritus Professor Arnold Wilkins at his office in the Department of Psychology at the University of Essex. He has studied this problem extensively, and I read his <a href="https://theconversation.com/the-scientific-reason-you-dont-like-led-bulbs-and-the-simple-way-to-fix-them-81639"> article in the Conversation online</a>.
+I recently visited Professor Arnold Wilkins at his office in the Department of Psychology at the University of Essex. He has studied this problem extensively, and I read his <a href="https://theconversation.com/the-scientific-reason-you-dont-like-led-bulbs-and-the-simple-way-to-fix-them-81639"> article in the Conversation online</a>.
 
 He explained to me that some people react badly to certain colours of light, and that different people react to different colours. He has designed a machine that shines light of different colours on a white page of printed text. He shows people the page and asks them which colour of light shining on the page makes it most comfortable to read. He can adjust the colour and saturation of the light as they are reading. 
 
