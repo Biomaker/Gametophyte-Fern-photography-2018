@@ -5,7 +5,9 @@ He explained to me that some people react badly to certain colours of light, and
 
 He tested me and found that I experienced eye pain immediately on seeing the particular shade of blue like that is most prevalent in LED light blub light. Fishing around online for a picture of the light spectrum, I find <a href="https://i.stack.imgur.com/lkyXG.png"> this image</a> and it is the peak at 450nm that is causing me trouble. 
 
-Conversely, Professor Wilkins found that my eyes were very comfortable looking at the page when it was lit with apricot coloured light. I found this very amusing because I have put a great deal of care into painting my whole house this colour, and I have always been very comfortable reading the Financial Times which is printed on exactly that shade of newspaper. He very kindly sent me a pair of lenses in exactly this shade, and I just now very tentatively testing them on a new (old) CCFL apple cinema screen that I have bought from ebay. Here are the lenses:
+Conversely, Professor Wilkins found that my eyes were very comfortable looking at the page when it was lit with a very specific shade of apricot coloured light. From his previous experience, he finds that people who have a strong preference for a given colour of light, like I do, find that their eyestrain is markedly reduced by wearing lenses of that colour. 
+
+I found my choice of colour very amusing because I have put a great deal of care into painting my whole house this colour, and I have always been very comfortable reading the Financial Times which is printed on exactly that shade of newspaper. Professor Wilkins very kindly sent me a pair of lenses in exactly this shade, and I am very tentatively testing them, to see if I can now use a new (old) CCFL apple cinema screen that I have bought from ebay. Here are the lenses:
 
 
 <img src="images/lenses.JPG" width="400" alt="image"/>
