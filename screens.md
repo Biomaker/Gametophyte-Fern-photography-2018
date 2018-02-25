@@ -16,7 +16,7 @@ So far:
 ## Here are the different avenues I am investigating
 
 - <a href="Wilkins.md"> coloured lenses</a>
-- <a href="DIYScreen.md> DIY screen building</a>
+- <a href="DIYScreen.md"> DIY screen building</a>
 - Measuring the spectral output of screens with DSLR or Spyder hardware
 - Altering the spectal output of a screen with a spyder3pro
 
