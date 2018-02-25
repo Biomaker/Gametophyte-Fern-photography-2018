@@ -2,7 +2,7 @@
 
 # Results
 
-##Teaching materials for focus stacking
+## Teaching materials for focus stacking
 
 - New domain registered as a front door to all docs: www.chlorophyllosophy.uk
 
@@ -10,10 +10,10 @@
 
 - New <a href="https://www.youtube.com/channel/UC9c4s_Co4rjb-4WGpaS0gHQ?view_as=subscriber">YouTube channel</a> started as a location for all videos. 
 
-##Plant imaging
+## Plant imaging
 
 - <i>Utricularia gibba</i> plants are growing well and imaging has started. No images good enough to show yet. 
 
-- Wild type <i><rabidopsis thaliana</i> seeds are growing here and mutants are due to be sown soon at Sainsbry Lab. Due to head down to take photo in mid-March. 
+- Wild type <i>Arabidopsis thaliana</i> seeds are growing here and mutants are due to be sown soon at Sainsbry Lab. Due to head down to take photo in mid-March. 
 
 - Fern spores sown. The first sowing failed due to fungal contamination. 
