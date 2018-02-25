@@ -26,7 +26,7 @@ Conversely, Professor Wilkins found that my eyes were very comfortable looking a
 
 Professor Wilkins also explained that the flicker of LEDs is also a problem. I knew this from reading online. He had a helpful tip though, than I wanted to pass on. The manufacturing industry is gradually improving LEDs, so that now some flicker and some do not. He says the easy way to test for flicker is to carry a fidget spinner and spin the spinner while looking through it at the source of LED light. He said that if we see a pattern on the spinner that is spinning in the opposite direction to the actual movement of the spinner, then that is a sign that the LEDs are flickering. 
 
-            ------------------------------------------------------------------------------------------------------------
+
 
 
 Being keen on light though, this has all got me thinking a bit. 
