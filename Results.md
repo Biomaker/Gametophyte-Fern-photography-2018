@@ -12,6 +12,8 @@
 
 ## Plant imaging
 
+- 5x and 20x lenses have arrived. The 50x lens is on the way. I have decided to use my MP-E lens for 3x to 1x magnifications, which feed up funds to buy the 50x lens. 
+
 - <i>Utricularia gibba</i> plants are growing well and imaging has started. No images good enough to show yet. 
 
 - Wild type <i>Arabidopsis thaliana</i> seeds are growing here and mutants are due to be sown soon at Sainsbry Lab. Due to head down to take photo in mid-March. 
