@@ -35,6 +35,6 @@ To do:
 
 - <i>Utricularia gibba</i> plants are growing well and imaging has started. No images good enough to show yet. 
 
-- Wild type <i>Arabidopsis thaliana</i> seeds are growing here and mutants are due to be sown soon at Sainsbry Lab. Due to head down to take photos in mid-March. 
+- Wild type <i>Arabidopsis thaliana</i> seeds are growing here and mutants are due to be sown soon at Sainsbury Lab. Due to head down to take photos in mid-March. 
 
 - Fern spores sown. 
