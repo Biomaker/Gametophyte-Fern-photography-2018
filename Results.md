@@ -25,7 +25,7 @@ Done:
 
 To do:
 - Running the code on the focus stacking setup
-- How does focus stacking work (GCSE photography level for Times Higher education site)
+- How does focus stacking work (GCSE photography level for Times Higher Education site)
 - Deep focus plant photography (Plant science for schools level - for SAPS site)
 
 
