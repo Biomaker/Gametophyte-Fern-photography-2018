@@ -37,4 +37,4 @@ To do:
 
 - Wild type <i>Arabidopsis thaliana</i> seeds are growing here and mutants are due to be sown soon at Sainsbry Lab. Due to head down to take photos in mid-March. 
 
-- Fern spores sown. The first sowing failed due to fungal contamination. 
+- Fern spores sown. 
