@@ -10,9 +10,24 @@
 
 - New <a href="https://www.youtube.com/channel/UC9c4s_Co4rjb-4WGpaS0gHQ?view_as=subscriber">YouTube channel</a> started as a location for all videos. 
 
-- Four videos already complete. 
+- Four videos already complete.
 
 - Full video transcripts have been kept so that I can add subtitles when the videos are finalised. 
+
+
+### List of videos
+
+Done:
+- How does focus stacking work (for researchers and older students)
+- Building the focus stacking setup
+- Automation of the focus stacking setup
+- Measuring depth of field
+
+To do:
+- Running the code on the focus stacking setup
+- How does focus stacking work (GCSE photography level for Times Higher education site)
+- Deep focus plant photography (Plant science for schools level - for SAPS site)
+
 
 ## Plant imaging
 
