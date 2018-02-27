@@ -10,9 +10,26 @@
 
 - New <a href="https://www.youtube.com/channel/UC9c4s_Co4rjb-4WGpaS0gHQ?view_as=subscriber">YouTube channel</a> started as a location for all videos. 
 
-- Four videos already complete. 
+- Four videos already complete.
 
 - Full video transcripts have been kept so that I can add subtitles when the videos are finalised. 
+
+
+### List of videos
+
+Done:
+- How does focus stacking work (for researchers and older students)
+- Building the focus stacking setup
+- Automation of the focus stacking setup
+- Measuring depth of field
+
+To do:
+- Running the code on the focus stacking setup
+- How does focus stacking work (GCSE photography level for Times Higher Education site)
+  Subtitle - what is the smallest thing you can photograph, and still get the subject in focus. How can we go further?
+- Deep focus plant photography (Plant science for schools level - for SAPS site)
+  Subtitle - what is the smallest plant you can photograph, and still get the subject in focus. How can we go further?
+
 
 ## Plant imaging
 
@@ -20,6 +37,11 @@
 
 - <i>Utricularia gibba</i> plants are growing well and imaging has started. No images good enough to show yet. 
 
-- Wild type <i>Arabidopsis thaliana</i> seeds are growing here and mutants are due to be sown soon at Sainsbry Lab. Due to head down to take photos in mid-March. 
+- Wild type <i>Arabidopsis thaliana</i> seeds are growing here and mutants are due to be sown soon at Sainsbury Lab. Due to head down to take photos in mid-March. 
 
-- Fern spores sown. The first sowing failed due to fungal contamination. 
+- Fern spores sown. 
+
+## Images
+
+We are still working on technical details in getting images of new plants right, and dealing with new lenses that work at different magnifications. However, for my own notes, and others interest, I include some of the practise shots that I have taken in the<a href="Gallery.md"> Gallery Page</a>
+

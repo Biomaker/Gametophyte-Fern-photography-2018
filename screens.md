@@ -1,6 +1,8 @@
 
 I (Jennifer Deegan) am on a mission to buy myself a new computer screen so I can upgrade to a faster computer, but it is tricky work, because my eyes do not get on with the bright blue light from LED backlit screens (or any other LED light). 
 
+I'm hoping that this will eventually become a self-solving problem, as the display screen industry are working very hard on how to solve it. However, until they do, I just need to find a screen I can use, so I can buy a faster computer, or at least insure myself against my current computer giving up the ghost. 
+
 I have been looking into the technical side of this, and reading about lots of other people online who have similar problems, so I thought I would write down my one discoveries here, in case it helps other people. 
 
 So far:
@@ -19,6 +21,7 @@ So far:
 - <a href="DIYScreen.md"> DIY screen building</a>
 - Measuring the spectral output of screens with DSLR or Spyder hardware
 - Altering the spectal output of a screen with a spyder3pro
+- <a href="https://www.indiegogo.com/projects/e-ink-monitor-with-hdmi-paperlike-pro#/">Paperlike Pro</a> is a destop screen with e-ink, that looks very interesting, but I can't find one to see in person, to see if it would do the job.
 
 
 
