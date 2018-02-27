@@ -18,18 +18,16 @@
 ### List of videos
 
 Done:
-- How does focus stacking work (for researchers and older students)
+- How does focus stacking work 
 - Building the focus stacking setup
 - Automation of the focus stacking setup
 - Measuring depth of field
 
+For the first video, I have written to SAPS, to my Univ of Glasgow teaching connection and to a local school science teacher to ask if it would be suitable for their students and if they would need any modifications. 
+
+
 To do:
 - Running the code on the focus stacking setup
-- How does focus stacking work (GCSE photography level for Times Higher Education site)
-  Subtitle - what is the smallest thing you can photograph, and still get the subject in focus. How can we go further?
-- Deep focus plant photography (Plant science for schools level - for SAPS site)
-  Subtitle - what is the smallest plant you can photograph, and still get the subject in focus. How can we go further?
-
 
 ## Plant imaging
 
