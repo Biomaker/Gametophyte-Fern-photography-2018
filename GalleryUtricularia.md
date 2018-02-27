@@ -9,7 +9,7 @@ Christopher Whitewoods has kindly given me this modified version of my photograp
 # Photos
 
 This was taken with the 10x Mitutoyo objective. <br>
-<img src="/images/gallery/practise%20shots/20180224utricularia.jpg"  width="400" alt="image"/>
+<img src="/images/gallery/practise%20shots/20180224utricularia.jpg"   alt="image"/>
 
 This was taken with the new 20x Mitutoyo objective.<br>
-<img src="/images/gallery/practise%20shots/20180224utricularia2.jpg" width="400" alt="image"/>
+<img src="/images/gallery/practise%20shots/20180224utricularia2.jpg"  alt="image"/>
