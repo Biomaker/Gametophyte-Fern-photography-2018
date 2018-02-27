@@ -43,5 +43,9 @@ To do:
 
 ## Images
 
-We are still working on technical details in getting images of new plants right, and dealing with new lenses that work at different magnifications. However, for my own notes, and others interest, I include some of the practise shots that I have taken in the<a href="Gallery.md"> Gallery Page</a>
+We are still working on technical details in getting images of new plants right, and dealing with new lenses that work at different magnifications. However, for my own notes, and others interest, I include some of the practise shots that I have taken in the gallery pages:
+
+- <a href="Gallery.md"> <i>Asplenium scolopendrium</a> (Hart's Tongue Fern)</a>
+- <a href="GalleryUtricularia.md"> <i>Utricularia gibba</i> traps (pond weed)</a>
+- <a href="GalleryArabidopsis.md"> <i>Arabidopsis thaliana</i> trichomes</a>
 
