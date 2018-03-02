@@ -31,6 +31,8 @@ We have a couple of technical problems that we are working on:
 
 - We are trying to set up faster computer equipment for video editing, but this is hampered by me having trouble using modern screens, due to eyestrain from blue light. The <a href="screens.md">technical issues of modern screens</a> are quite interesting, and this is turning into a bio-electronics project in its own right, so I will document it too. 
 
+- The code that we currently use to drive the system with the infra red camera trigger is on the <a href="https://github.com/BioMakers/Gametophyte-Fern-photography-2018/blob/master/IRSourceCode.c"> Infra red setup source code page.</a>
+
 # Results
 
 See our <a href="Results.md"> Results Page</a>
