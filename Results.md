@@ -29,6 +29,10 @@ For the first video, I have written to SAPS, to my Univ of Glasgow teaching conn
 To do:
 - Running the code on the focus stacking setup
 
+## £100 teaching tool
+
+I have written to a lot of people who run large classes on this kind of subject and they have said that they would rather have a £0 teaching tool that takes no time to set up, as they have no time, and no budget. I am thinking about how to do this. They also said that I should aim for honours undergraduate students with the £100 teaching tool, and give the full details of my actual system, so that copies can be made, so I am also doing that. 
+
 ## Plant imaging
 
 - 5x and 20x lenses have arrived. The 50x lens is on the way. I have decided to use my MP-E lens for 3x to 1x magnifications, which feed up funds to buy the 50x lens. 
