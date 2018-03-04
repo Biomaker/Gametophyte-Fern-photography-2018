@@ -31,7 +31,12 @@ To do:
 
 ## £100 teaching tool
 
-I have written to a lot of people who run large classes on this kind of subject and they have said that they would rather have a £0 teaching tool that takes no time to set up, as they have no time, and no budget. I am thinking about how to do this. They also said that I should aim for honours undergraduate students with the £100 teaching tool, and give the full details of my actual system, so that copies can be made, so I am also doing that. 
+My contacts have told me that the £100 tool that I have built is very suitable as a project for an honours student, and that I should try to fully document it so that it could be coppied by someone in this kind of situation. I am working at doing that, with all of the instructions in video format, backed up by my previously written Hackster and GitHub docs. 
+
+I have written to several people who run large secondary school or University classes on this kind of subject, and they have said that they do not have the budget for a £100 teaching tool, or to set up the kind of system that I am thinking of, because of the large numbers of people who have to be taught at once. I have instead made a video that explains the principles of focus stacking, that could be shown to classes, and I have sent that video to my contacts to ask if it would be suitable. 
+
+They said that for teaching material to use useful in school it has to fit with the school curriculum with minimal modification from the teacher, so I'm asking for advice on how my work can fit in. At the moment I think it may fit with GCSE photography and and I am asking SAPS for advice on how it could fit into secondary school plant sciences. 
+
 
 ## Plant imaging
 
