@@ -22,12 +22,14 @@ Done:
 - Building the focus stacking setup
 - Automation of the focus stacking setup
 - Measuring depth of field
+- Running the code on the focus stacking setup - detailed version
 
 For the first video, I have written to SAPS, to my Univ of Glasgow teaching connection and to a local school science teacher to ask if it would be suitable for their students and if they would need any modifications. 
 
 
 To do:
-- Running the code on the focus stacking setup
+
+- Running the code on the focus stacking setup - summary version.
 
 ## £100 teaching tool
 
