@@ -9,7 +9,7 @@ The main gain from this conversion is that we will then be able to use mirror lo
 
 The design was copied from <a href="http://www.martyncurrey.com/activating-the-shutter-release/">Martyn Curry's system</a>.
 
-We did not alter the code on the aruino, as the commands that fired the shutter using the infra red remote control work that same way in triggering this system.
+We did not alter the code on the arduino, as the commands that fired the shutter using the infra red remote control work that same way in triggering this system.
 
 The parts and their prices are shown below:
 
@@ -19,6 +19,16 @@ The parts and their prices are shown below:
  - 470 ohm resistor (from bits box)
  - cable            £ 3.42<br>
 Total:               £9.52
+
+Here is the wiring diagram:<br>
+
+<img src="images/wiringdiagram.jpg" width="300" alt="image"/><br><br>
+
+Here is the arrangement of the coloured wires inside the cable that goes to the camera. The colours are the colours of the wires inside the camera cable. The central column shows what the effect is on the camera of sending a signal down that wire. The third column shows which pin the wire is connected to on the 4N25M optocoupler.<br>
+
+<img src="images/table.jpg" width="400" alt="image"/><br><br>
+
+
 
 Below are some photos of the work in progress:
 
