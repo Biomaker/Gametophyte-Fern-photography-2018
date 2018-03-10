@@ -1,1 +1,2 @@
 
+My hope in documenting this system is that an Honours student might be able to copy it for only about £100, if they were able to borrow and scavenge some equipment from various University groups and departments. In this page I will list the parts that will be needed, and which can be borrowed and which probably need to be bought. I will also list the sources and prices of those parts that probably need to be bought, and the places to look for those parts that can probably be found or borrowed. 
