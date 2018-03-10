@@ -1,7 +1,29 @@
 
 # Camera trigger
 
-In our previous work we triggered the camera using an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">infra red remote control</a>. In this new project we are planning to convert to an <a href="https://github.com/BioMakers/Gametophyte-Fern-photography-2018/blob/master/CameraTrigger.md"> electrical shutter release wire</a>, fired by the arduino via an audio jack. 
+<img src="images/WiredCameraSetupTotal.JPG" alt="image"/>
 
-The main gain from this conversion is that we will then be able to use mirror lock-up to reduce vibration. This is not possible using the infra red remote control. 
+In our previous work we triggered the camera using an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">infra red remote control</a>. In this new project we have converted to an <a href="https://github.com/BioMakers/Gametophyte-Fern-photography-2018/blob/master/CameraTrigger.md"> electrical shutter release wire</a>, fired by the arduino via an audio jack. 
+
+The main gain from this conversion is that we will then be able to use mirror lock-up to reduce vibration. This is not possible using the infra red remote control. We will also avoid losing occasional shutter releases when the sunshine in the room is so bright that the infra red signal get lost in the intensity of the sunshine. This has been an issue in summer before. 
+
+Below are some photos of the work in progress:
+
+This is the plate that we used to fix the electronic components down:
+<img src="images/plate.JPG" alt="image"/>
+This is the camera plug:
+<img src="images/CameraPlug.JPG" alt="image"/>
+This is the plate with the wires and components in place. 
+<img src="images/InsidesOfWiredCameraTrigger.JPG" alt="image"/>
+This shows the old wires from the infra red trigger now being used for the wired trigger:
+<img src="images/SameWiresInArduinoWiredTrigger.JPG" alt="image"/>
+This shows the wires ready to be soldered to the board:
+<img src="images/StrippedCameraWire.JPG" alt="image"/>
+This is the camera plug going into the camera:
+<img src="images/WiredCameraTriggerCameraSocket.JPG" alt="image"/>
+This shows the conversion of the colours of wires in the arduino to the colours of wires going to the board. We need to note these to be able to wire the system again if the wires come undone. 
+<img src="images/WiresColoursWiredTrigger.JPG" alt="image"/>
+This is some wires, ready to be added to the system.
+<img src="images/WiresForWiredCameraTrigger.JPG" alt="image"/>
+
 
