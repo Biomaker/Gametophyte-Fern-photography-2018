@@ -14,7 +14,7 @@ This is the plate that we used to fix the electronic components down:<br>
 This is the camera plug:<br>
 <img src="images/CameraPlug.JPG" width="400" alt="image"/><br><br>
 This is the plate with the wires and components in place. <br>
-<img src="images/InsidesOfWiredCameraTrigger.JPG" width="400" alt="image"/><br><br>
+<img src="images/InsidesOfWiredCameraTrigger.jpg" width="400" alt="image"/><br><br>
 This shows the old wires from the infra red trigger now being used for the wired trigger:<br>
 <img src="images/SameWiresInArduinoWiredTrigger.JPG" width="400" alt="image"/><br><br>
 This shows the wires ready to be soldered to the board:<br>
