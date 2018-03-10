@@ -48,6 +48,7 @@ This is the camera plug going into the camera:<br>
 This shows the conversion of the colours of wires in the arduino to the colours of wires going to the board. We need to note these to be able to wire the system again if the wires come undone. <br><br>
 <img src="images/WiresColoursWiredTrigger.JPG" width="400" alt="image"/><br>
 
+
 This shows the old wires from the infra red trigger now being used for the wired trigger:<br>
 <img src="images/SameWiresInArduinoWiredTrigger.JPG" width="400" alt="image"/><br><br>
 
