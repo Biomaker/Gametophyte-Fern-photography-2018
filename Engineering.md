@@ -7,7 +7,7 @@ In our previous work we triggered the camera using an <a href="https://github.co
 
 The main gain from this conversion is that we will then be able to use mirror lock-up to reduce vibration. This is not possible using the infra red remote control. We will also avoid losing occasional shutter releases when the sunshine in the room is so bright that the infra red signal get lost in the intensity of the sunshine. This has been an issue in summer before. 
 
-The design was copied from <a href="http://www.martyncurrey.com/activating-the-shutter-release/">Martyn Curry's system</a>.
+The design was adapted from <a href="http://www.martyncurrey.com/activating-the-shutter-release/">Martyn Curry's system</a>.
 
 We did not alter the code on the arduino, as the commands that fired the shutter using the infra red remote control work that same way in triggering this system.
 
