@@ -22,11 +22,11 @@ Total:               £9.52
 
 Here is the wiring diagram:<br>
 
-<img src="images/wiringdiagram.JPG" width="300" alt="image"/><br><br>
+<img src="images/wiringdiagram.jpg" width="300" alt="image"/><br><br>
 
 Here is the arrangement of the coloured wires inside the cable that goes to the camera. The colours are the colours of the wires inside the camera cable. The central column shows what the effect is on the camera of sending a signal down that wire. The third column shows which pin the wire is connected to on the 4N25M optocoupler.<br>
 
-<img src="images/table.JPG" width="400" alt="image"/><br><br>
+<img src="images/table.jpg" width="400" alt="image"/><br><br>
 
 
 
