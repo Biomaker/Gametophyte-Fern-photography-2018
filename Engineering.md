@@ -10,20 +10,20 @@ The main gain from this conversion is that we will then be able to use mirror lo
 Below are some photos of the work in progress:
 
 This is the plate that we used to fix the electronic components down:<br>
-<img src="images/plate.jpg" width="400" alt="image"/>
+<img src="images/plate.jpg" width="400" alt="image"/><br><br>
 This is the camera plug:<br>
-<img src="images/CameraPlug.JPG" width="400" alt="image"/>
+<img src="images/CameraPlug.JPG" width="400" alt="image"/><br><br>
 This is the plate with the wires and components in place. <br>
-<img src="images/InsidesOfWiredCameraTrigger.JPG" width="400" alt="image"/>
+<img src="images/InsidesOfWiredCameraTrigger.JPG" width="400" alt="image"/><br><br>
 This shows the old wires from the infra red trigger now being used for the wired trigger:<br>
-<img src="images/SameWiresInArduinoWiredTrigger.JPG" width="400" alt="image"/>
+<img src="images/SameWiresInArduinoWiredTrigger.JPG" width="400" alt="image"/><br><br>
 This shows the wires ready to be soldered to the board:<br>
-<img src="images/StrippedCameraWire.JPG" width="400" alt="image"/>
+<img src="images/StrippedCameraWire.JPG" width="400" alt="image"/><br><br>
 This is the camera plug going into the camera:<br>
-<img src="images/WiredCameraTriggerCameraSocket.JPG" width="400" alt="image"/>
-This shows the conversion of the colours of wires in the arduino to the colours of wires going to the board. We need to note these to be able to wire the system again if the wires come undone. <br>
-<img src="images/WiresColoursWiredTrigger.JPG" width="400" alt="image"/>
-This is some wires, ready to be added to the system.<br>
-<img src="images/WiresForWiredCameraTrigger.JPG" width="400" alt="image"/>
+<img src="images/WiredCameraTriggerCameraSocket.JPG" width="400" alt="image"/><br><br>
+This shows the conversion of the colours of wires in the arduino to the colours of wires going to the board. We need to note these to be able to wire the system again if the wires come undone. <br><br>
+<img src="images/WiresColoursWiredTrigger.JPG" width="400" alt="image"/><br>
+This is some wires, ready to be added to the system.<br><br>
+<img src="images/WiresForWiredCameraTrigger.JPG" width="400" alt="image"/><br>
 
 
