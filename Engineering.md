@@ -3,7 +3,7 @@
 
 <img src="images/WiredCameraSetupTotal.JPG" width="600" alt="image"/>
 
-In our previous work we triggered the camera using an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">infra red remote control</a>. In this new project we have converted to an <a href="https://github.com/BioMakers/Gametophyte-Fern-photography-2018/blob/master/CameraTrigger.md"> electrical shutter release wire</a>, fired by the arduino via an audio jack. 
+In our previous work we triggered the camera using an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">infra red remote control</a>. In this new project we have converted to an  electrical shutter release wire, fired by the arduino via an audio jack. 
 
 The main gain from this conversion is that we will then be able to use mirror lock-up to reduce vibration. This is not possible using the infra red remote control. We will also avoid losing occasional shutter releases when the sunshine in the room is so bright that the infra red signal get lost in the intensity of the sunshine. This has been an issue in summer before. 
 
