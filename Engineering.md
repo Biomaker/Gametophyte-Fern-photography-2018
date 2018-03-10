@@ -10,20 +10,20 @@ The main gain from this conversion is that we will then be able to use mirror lo
 Below are some photos of the work in progress:
 
 This is the plate that we used to fix the electronic components down:
-<img src="images/plate.JPG" alt="image"/>
+<img src="images/plate.jpg" width="400" alt="image"/>
 This is the camera plug:
-<img src="images/CameraPlug.JPG" alt="image"/>
+<img src="images/CameraPlug.JPG" width="400" alt="image"/>
 This is the plate with the wires and components in place. 
-<img src="images/InsidesOfWiredCameraTrigger.JPG" alt="image"/>
+<img src="images/InsidesOfWiredCameraTrigger.JPG" width="400" alt="image"/>
 This shows the old wires from the infra red trigger now being used for the wired trigger:
-<img src="images/SameWiresInArduinoWiredTrigger.JPG" alt="image"/>
+<img src="images/SameWiresInArduinoWiredTrigger.JPG" width="400" alt="image"/>
 This shows the wires ready to be soldered to the board:
-<img src="images/StrippedCameraWire.JPG" alt="image"/>
+<img src="images/StrippedCameraWire.JPG" width="400" alt="image"/>
 This is the camera plug going into the camera:
-<img src="images/WiredCameraTriggerCameraSocket.JPG" alt="image"/>
+<img src="images/WiredCameraTriggerCameraSocket.JPG" width="400" alt="image"/>
 This shows the conversion of the colours of wires in the arduino to the colours of wires going to the board. We need to note these to be able to wire the system again if the wires come undone. 
-<img src="images/WiresColoursWiredTrigger.JPG" alt="image"/>
+<img src="images/WiresColoursWiredTrigger.JPG" width="400" alt="image"/>
 This is some wires, ready to be added to the system.
-<img src="images/WiresForWiredCameraTrigger.JPG" alt="image"/>
+<img src="images/WiresForWiredCameraTrigger.JPG" width="400" alt="image"/>
 
 
