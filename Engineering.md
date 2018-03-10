@@ -13,12 +13,11 @@ We did not alter the code on the aruino, as the commands that fired the shutter 
 
 The parts and their prices are shown below:
 
-Parts:
  - 4N25M optocoupler £2.20 (for 5)
  - circuit board     £1.94
  - plastic box       £1.96
  - 470 ohm resistor (from bits box)
- - cable            £ 3.42
+ - cable            £ 3.42<br>
 Total:               £9.52
 
 Below are some photos of the work in progress:
