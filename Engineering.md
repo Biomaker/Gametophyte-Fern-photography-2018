@@ -11,6 +11,16 @@ The design was copied from <a href="http://www.martyncurrey.com/activating-the-s
 
 We did not alter the code on the aruino, as the commands that fired the shutter using the infra red remote control work that same way in triggering this system.
 
+The parts and their prices are shown below:
+
+Parts:
+ - 4N25M optocoupler £2.20 (for 5)
+ - circuit board     £1.94
+ - plastic box       £1.96
+ - 470 ohm resistor (from bits box)
+ - cable            £ 3.42
+Total:               £9.52
+
 Below are some photos of the work in progress:
 
 This is the plate that we used to fix the electronic components down:<br>
