@@ -6,22 +6,36 @@ My hope in documenting this system is that an Honours student might be able to c
 
 ## Hardware for the optics
 
-Canon 5d MkII camera body (£1200 several years ago from DigitalRev)<br>
-Olympus Zuiko 200mm prime lens (available used only, as it is about 30 years old - about £70 on ebay)<br>
+10X Mitutoyo Plan Apo Infinity Corrected Long WD Objective - this can be borrowed and is most likely to be found in the materials science or engineering department of your University. Biologist, in general do not have these, as they are designed for bright field examination of the surface of a subject, rather than for looking through a subject. 
+
+DSLR body - It is likely that you can borrow one of these from someone in your department. I use a Canon, and the adapters that I list below assume that the body is a Canon. 
+
+There are many different ways to connect the Camera body to the microscope objective, but this is one of the cheaper and most effective ways:
+
+Olympus Zuiko 200mm prime lens - probably has to be bought second hand, costs about £80 on ebay. 
+
+Also from ebay:
+
 Lens Mount Adapter for Olympus OM Lens to Canon EF-Mount (about £20)<br>
 M26X0.706 Mitutoyo microscope female thread to M55mm 55X0.75 adapter micrography (£11.48 on ebay)<br>
-Two UV filters (55mm) with the glass removed as an extension to accommodate the long thread of the objective.<br>
-10X Mitutoyo Plan Apo Infinity Corrected Long WD Objective (From Mitutoyo: £677.16)<br>
-Canon MP-E lens for magnifications under x5.
+Two UV filters (55mm) with the glass removed as an extension to accommodate the long thread of the objective. (About £10 each)<br>
 
 
-The focus block, on which the camera rests, is a block from a Nikon Optiphot or Labophot microscope. 
+##Hardware for the focus block
 
-The stepper motor is an RS Pro Hybrid Stepper Motor 0.9°, 44 Ncm, 2.8 V, 1.68 A, 4-wire motor, which was bought from http://uk.rs-online.com/. I intentionally brought quite a beefy motor in the hope that it would be less likely to burn out. It is also very square in the body, which helps to brace it against the board.
+The focus block, on which the camera rests, is a block from a Nikon Optiphot or Labophot microscope. This may be got free from a University department if they have old microscope to throw away. People in the engineering department here have told me that this is generally the case fromo time to time. 
 
-Below is a close-up view of the gearing. The gear wheels were bought from http://www.maplin.co.uk/ and then the centres were drilled out or cut out with a hacksaw blade. The plastic gears were very soft, and easy to cut.
+The base must be heavy and solid, and I use an off-cut of worktop. This can be got free from a carpenter or kitchen fitter. 
 
-Big Easy Driver
+##Electronics for the focus block
+
+These will almost certainly have to be bought, unless you can borrow bits.
+
+RS Pro Hybrid Stepper Motor 0.9°, 44 Ncm, 2.8 V, 1.68 A, 4-wire motor, which was bought from http://uk.rs-online.com/. (About £28) 
+
+Plastic gears (About £5)
+
+Big Easy Driver (About £18)
 
 
 
