@@ -49,8 +49,14 @@ Bit of wood and screws to be scavenged.
 
 I use an old paint pot as a stand, with a blob of blutac on top. (£1)
 
+## Software
+
+I use Helicon focus for focus stacking and this bottom level of subscription for a year currently costs £22.
+
 ## Other things
 
-In order for the system to work I also use a laptop attached to the Camera body
+In order for the system to work I also use a laptop attached to the Camera body and the EOS remote software, which came with the camera. This need a USB lead for the connection, but I think that also came with the camera. 
+
+
 
 
