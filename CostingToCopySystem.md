@@ -21,13 +21,13 @@ M26X0.706 Mitutoyo microscope female thread to M55mm 55X0.75 adapter micrography
 Two UV filters (55mm) with the glass removed as an extension to accommodate the long thread of the objective. (About £10 each)<br>
 
 
-##Hardware for the focus block
+## Hardware for the focus block
 
 The focus block, on which the camera rests, is a block from a Nikon Optiphot or Labophot microscope. This may be got free from a University department if they have old microscope to throw away. People in the engineering department here have told me that this is generally the case fromo time to time. 
 
 The base must be heavy and solid, and I use an off-cut of worktop. This can be got free from a carpenter or kitchen fitter. 
 
-##Electronics for the focus block
+## Electronics for the focus block
 
 These will almost certainly have to be bought, unless you can borrow bits.
 
