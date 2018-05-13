@@ -57,6 +57,9 @@ I use Helicon focus for focus stacking and this bottom level of subscription for
 
 In order for the system to work I also use a laptop attached to the Camera body and the EOS remote software, which came with the camera. This need a USB lead for the connection, but I think that also came with the camera. 
 
+## Total
+
+The total cost of all of the bits above that need to be bought is £228.68, which is a fair bit more than the £100 I originally thought (oops), but a lot less than the £4000 that it would cost to build this setup with all- bought parts. If you are trying to copy this system then good luck with your borrowing and scavenging and please do get in touch if you would like further advice. 
 
 
 
