@@ -37,5 +37,15 @@ Plastic gears (About £5)
 
 Big Easy Driver (About £18)
 
+Arduino (About £18)
+
+Jumper wires (About £1.20)
+
+Bit of wood and screws to be scavenged. 
+
+## Stand for photographic specimen
+
+I use an old paint pot as a stand, with a blob of blutac on top. (£1)
+
 
 
