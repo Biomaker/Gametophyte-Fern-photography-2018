@@ -1,5 +1,5 @@
 
-I visited Aleksandr Gavrin at the Sainsbury Laboratory in Cambridge, to photograph his Arabidopsis trichome mutant phenotype. This is us in their photographic room setting up the gear and taking some photos. 
+I visited Aleksandr Gavrin at the Sainsbury Laboratory in Cambridge, to photograph his Arabidopsis trichome mutant phenotype. This is us in their photographic room setting up the gear and taking some photos. The photos that we took are shown below. 
 
 <img src="images/cropped.jpg" alt="image"/>
 
